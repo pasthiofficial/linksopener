@@ -251,7 +251,7 @@ input[type="checkbox"]:checked ~ .more_detail{
 .psp {
     content: '';
     position: fixed;
-    top: 7.8%;
+    top: 8.1%;
     right: 12%;
   }
 
